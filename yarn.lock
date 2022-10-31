@@ -2514,10 +2514,10 @@
   resolved "https://registry.yarnpkg.com/@types/unist/-/unist-2.0.6.tgz#250a7b16c3b91f672a24552ec64678eeb1d3a08d"
   integrity sha512-PBjIUxZHOuj0R15/xuwJYjFi+KZdNFrehocChv4g5hu6aFroHue8m0lBP0POdK2nKzbw0cgV1mws8+V/JAcEkQ==
 
-"@types/web@^0.0.71":
-  version "0.0.71"
-  resolved "https://registry.yarnpkg.com/@types/web/-/web-0.0.71.tgz#2999b659aec80b9739046c66415072bedd967922"
-  integrity sha512-mNdZig0AZ0ciUlChiZ5xd9t4DVhMEbPf5eMOnDAgNThmhYWyIPPCSIGnag9mL/mnGMkoSW9Cel8UNIjeGeqh5g==
+"@types/web@^0.0.77":
+  version "0.0.77"
+  resolved "https://registry.yarnpkg.com/@types/web/-/web-0.0.77.tgz#846f7f2e90289ccb1ebe676e6034dd071109f962"
+  integrity sha512-RfMzVbwUNNekbyw+Sku++ikQkih0XIb97CD+t8sJ2cIX8D9j56z31zoefUWadFIZLZQ+YMIKBzsqaNE0BNiQww==
 
 "@types/yauzl@^2.9.1":
   version "2.10.0"
